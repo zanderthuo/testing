@@ -21,7 +21,7 @@ The backend uses the **DeepSeek Chat v3.1 (free)** model hosted on **OpenRouter*
 
 ### Architecture Diagram
 
-📎 *Insert your architecture diagram image here (e.g., `docs/architecture.png`)*
+![Architecture Diagram](arch.jpg)
 
 ---
 
